@@ -1,0 +1,19 @@
+Capacity utilization,Cost of delay,Cost of capacity,Total cost,Items in queue
+0.10,2.222222222,4500,4502.222222,0.08888888889
+0.20,10,4000,4010,0.4
+0.30,25.71428571,3500,3525.714286,1.028571429
+0.40,53.33333333,3000,3053.333333,2.133333333
+0.50,100,2500,2600,4
+0.60,180,2000,2180,7.2
+0.70,326.6666667,1500,1826.666667,13.06666667
+0.80,640,1000,1640,25.6
+0.90,1620,500,2120,64.8
+0.95,3610,250,3860,144.4
+1.00,#DIV/0!,0,#DIV/0!,#DIV/0!
+,,,,
+,,,,
+Average capacity per iteration,8,,,
+Arrival rate per iteration,8,,8.1,
+Cost of capacity per iteration,5000,,,
+Cost of delay per item per iteration,25,,,
+Items in queue,-0.79,,,
